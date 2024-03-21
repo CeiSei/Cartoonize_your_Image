@@ -15,3 +15,14 @@ It provides 4 images with 3 filters which can transform your image just looks li
 
 - When you execute the program, it will show you your original image.
 - You can change image filter by pressing '-' or '+'.
+
+[ The limits of a program ]
+
+- Blured
+  - Image becomes smooth so its resolution goes bad.
+ 
+- Blured + Sharpen
+  - Image's boundary line becomes clear but image becomes overfitted.
+
+- Canny detection
+  - Image's boundary line becomes clear but it can not be colored.
