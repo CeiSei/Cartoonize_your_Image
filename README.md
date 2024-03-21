@@ -7,8 +7,9 @@ It provides 4 images with 3 filters which can transform your image just looks li
 
 [ Attention ]
 
-!!! Your image should be placed in same directory with this program. !!! \n
-!!! Your image should be named as 'image.jpg'. !!!
+- Your image should be placed in same directory with this program.
+- Your image should be named as 'image.jpg'.
+
 
 [ How to use ]
 
